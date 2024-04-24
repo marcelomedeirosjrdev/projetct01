@@ -1,8 +1,8 @@
 
 import { useState } from 'react'
-import { QuestionAnswer } from './QuestionAnswer'
+import { QuestionAnswer } from '../QuestionAnswer'
 import { Answers, AnswerItem, QuizHeader, Question, QuestionCount, Container, Card, Quiz1 } from '../Quiz/styles'
-import S from './styles.module.css'
+import S from '../Quiz/style.module.css'
 
 
 

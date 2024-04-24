@@ -1,12 +1,16 @@
 import React from 'react'
-import {H1} from './styles'
+import { Quiz } from './components/Quiz'
 
 
 
 
 function App() {
-   return <H1>Hello world!!!</H1>
-  
+   return (
+      <Quiz />
+   )
+
 }
 
 export default App
+
+
